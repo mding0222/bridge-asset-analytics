@@ -1,0 +1,204 @@
+﻿maintenance_id,bridge_id,planned_year,maintenance_type,priority,estimated_budget_cny,status
+MT-BR0002,BR0002,2026,Load rating / special inspection,Low,855993.0,Planned
+MT-BR0003,BR0003,2028,Scour protection,Low,1018479.0,Planned
+MT-BR0004,BR0004,2026,Expansion joint replacement,High,1240039.0,Approved
+MT-BR0005,BR0005,2027,Load rating / special inspection,Medium,43599.0,Planned
+MT-BR0007,BR0007,2026,Drainage cleaning,Medium,948681.0,Planned
+MT-BR0011,BR0011,2028,Drainage cleaning,Medium,467996.0,Planned
+MT-BR0015,BR0015,2028,Load rating / special inspection,High,995775.0,In design
+MT-BR0018,BR0018,2028,Bearing replacement,Medium,299478.0,Approved
+MT-BR0022,BR0022,2026,Bearing replacement,Medium,39846.0,Completed
+MT-BR0023,BR0023,2026,Expansion joint replacement,Medium,978528.0,Completed
+MT-BR0024,BR0024,2028,Expansion joint replacement,Low,955238.0,Approved
+MT-BR0025,BR0025,2027,Concrete patch repair,Low,1004187.0,In design
+MT-BR0026,BR0026,2028,Concrete patch repair,Low,502159.0,Planned
+MT-BR0027,BR0027,2027,Crack sealing,Low,977859.0,In design
+MT-BR0028,BR0028,2028,Concrete patch repair,Medium,312154.0,Approved
+MT-BR0030,BR0030,2027,Scour protection,Medium,900957.0,Approved
+MT-BR0031,BR0031,2028,Deck resurfacing,Medium,1007035.0,Approved
+MT-BR0032,BR0032,2028,Bearing replacement,Medium,664789.0,Planned
+MT-BR0033,BR0033,2028,Scour protection,Medium,841802.0,In design
+MT-BR0034,BR0034,2027,Expansion joint replacement,Low,457675.0,Approved
+MT-BR0036,BR0036,2026,Concrete patch repair,Medium,499894.0,In design
+MT-BR0037,BR0037,2026,Bearing replacement,High,153614.0,In design
+MT-BR0039,BR0039,2028,Expansion joint replacement,Medium,284863.0,In design
+MT-BR0040,BR0040,2028,Crack sealing,Low,928591.0,In design
+MT-BR0041,BR0041,2028,Scour protection,High,298756.0,Approved
+MT-BR0042,BR0042,2028,Bearing replacement,High,1263506.0,Approved
+MT-BR0044,BR0044,2026,Concrete patch repair,Medium,379895.0,Planned
+MT-BR0048,BR0048,2026,Deck resurfacing,Medium,1069849.0,Approved
+MT-BR0049,BR0049,2026,Scour protection,Medium,1168749.0,In design
+MT-BR0050,BR0050,2027,Drainage cleaning,Medium,73275.0,Completed
+MT-BR0051,BR0051,2026,Drainage cleaning,Medium,715673.0,Completed
+MT-BR0052,BR0052,2027,Drainage cleaning,Medium,664344.0,In design
+MT-BR0053,BR0053,2027,Deck resurfacing,Medium,976568.0,Planned
+MT-BR0059,BR0059,2027,Crack sealing,Low,559321.0,In design
+MT-BR0060,BR0060,2026,Drainage cleaning,Medium,170246.0,Completed
+MT-BR0061,BR0061,2028,Expansion joint replacement,Urgent,1360241.0,Planned
+MT-BR0063,BR0063,2028,Load rating / special inspection,Medium,617310.0,Planned
+MT-BR0064,BR0064,2027,Expansion joint replacement,Medium,497855.0,In design
+MT-BR0066,BR0066,2028,Crack sealing,High,660196.0,Planned
+MT-BR0068,BR0068,2028,Bearing replacement,Low,95252.0,In design
+MT-BR0069,BR0069,2026,Concrete patch repair,Medium,111137.0,Planned
+MT-BR0072,BR0072,2028,Scour protection,Low,620990.0,Completed
+MT-BR0073,BR0073,2027,Concrete patch repair,Medium,730367.0,Completed
+MT-BR0074,BR0074,2027,Scour protection,Low,323296.0,In design
+MT-BR0075,BR0075,2027,Bearing replacement,Low,711800.0,Completed
+MT-BR0077,BR0077,2027,Expansion joint replacement,Medium,97483.0,In design
+MT-BR0078,BR0078,2027,Expansion joint replacement,Low,164036.0,Planned
+MT-BR0086,BR0086,2027,Load rating / special inspection,Medium,558147.0,Planned
+MT-BR0087,BR0087,2028,Expansion joint replacement,Low,233410.0,Completed
+MT-BR0088,BR0088,2028,Deck resurfacing,Medium,904429.0,Approved
+MT-BR0089,BR0089,2026,Drainage cleaning,Medium,294437.0,In design
+MT-BR0093,BR0093,2027,Drainage cleaning,Medium,838983.0,Approved
+MT-BR0094,BR0094,2026,Crack sealing,Medium,826754.0,Approved
+MT-BR0095,BR0095,2028,Expansion joint replacement,High,1380575.0,Approved
+MT-BR0096,BR0096,2027,Crack sealing,Medium,611228.0,Approved
+MT-BR0097,BR0097,2027,Drainage cleaning,Low,855564.0,Planned
+MT-BR0098,BR0098,2026,Crack sealing,Medium,826418.0,Planned
+MT-BR0099,BR0099,2028,Drainage cleaning,Medium,843589.0,In design
+MT-BR0100,BR0100,2026,Expansion joint replacement,Medium,450988.0,Planned
+MT-BR0101,BR0101,2028,Scour protection,Medium,180831.0,In design
+MT-BR0103,BR0103,2026,Expansion joint replacement,High,1218856.0,In design
+MT-BR0106,BR0106,2026,Load rating / special inspection,High,1911028.0,In design
+MT-BR0108,BR0108,2027,Load rating / special inspection,High,848296.0,Completed
+MT-BR0111,BR0111,2027,Concrete patch repair,High,1155807.0,Completed
+MT-BR0112,BR0112,2028,Load rating / special inspection,High,1762561.0,Planned
+MT-BR0113,BR0113,2028,Expansion joint replacement,Medium,749877.0,Completed
+MT-BR0115,BR0115,2026,Bearing replacement,Low,608604.0,In design
+MT-BR0116,BR0116,2027,Expansion joint replacement,Medium,650655.0,Completed
+MT-BR0117,BR0117,2027,Expansion joint replacement,High,1773931.0,In design
+MT-BR0118,BR0118,2027,Scour protection,Medium,188109.0,Completed
+MT-BR0120,BR0120,2027,Scour protection,Medium,356180.0,Planned
+MT-BR0121,BR0121,2028,Deck resurfacing,Medium,135474.0,Planned
+MT-BR0124,BR0124,2027,Load rating / special inspection,High,1847558.0,Completed
+MT-BR0125,BR0125,2027,Bearing replacement,Low,991331.0,In design
+MT-BR0126,BR0126,2028,Drainage cleaning,Medium,817470.0,In design
+MT-BR0127,BR0127,2027,Scour protection,Low,532976.0,Completed
+MT-BR0128,BR0128,2027,Drainage cleaning,Medium,935227.0,In design
+MT-BR0129,BR0129,2026,Concrete patch repair,Medium,1118963.0,Planned
+MT-BR0130,BR0130,2027,Bearing replacement,Medium,1121901.0,In design
+MT-BR0131,BR0131,2026,Drainage cleaning,High,436857.0,In design
+MT-BR0133,BR0133,2027,Expansion joint replacement,Medium,594443.0,In design
+MT-BR0134,BR0134,2027,Drainage cleaning,Low,505623.0,Approved
+MT-BR0137,BR0137,2026,Load rating / special inspection,Medium,213310.0,Approved
+MT-BR0138,BR0138,2026,Expansion joint replacement,Low,56820.0,In design
+MT-BR0139,BR0139,2028,Deck resurfacing,Low,701903.0,In design
+MT-BR0140,BR0140,2028,Concrete patch repair,Medium,655309.0,Planned
+MT-BR0142,BR0142,2027,Bearing replacement,Medium,153630.0,Approved
+MT-BR0143,BR0143,2027,Scour protection,Low,913987.0,In design
+MT-BR0145,BR0145,2028,Expansion joint replacement,Medium,684015.0,Completed
+MT-BR0146,BR0146,2027,Crack sealing,Medium,1095743.0,In design
+MT-BR0147,BR0147,2027,Scour protection,Low,155314.0,Planned
+MT-BR0148,BR0148,2026,Concrete patch repair,Medium,1099900.0,Approved
+MT-BR0149,BR0149,2027,Load rating / special inspection,Low,1027844.0,Approved
+MT-BR0150,BR0150,2028,Bearing replacement,Medium,397954.0,Approved
+MT-BR0152,BR0152,2026,Deck resurfacing,Urgent,220247.0,Planned
+MT-BR0153,BR0153,2028,Bearing replacement,Medium,296820.0,Completed
+MT-BR0154,BR0154,2027,Load rating / special inspection,High,1252746.0,Completed
+MT-BR0157,BR0157,2027,Deck resurfacing,Low,541275.0,Approved
+MT-BR0158,BR0158,2026,Bearing replacement,High,620383.0,In design
+MT-BR0159,BR0159,2026,Concrete patch repair,Medium,210676.0,Completed
+MT-BR0162,BR0162,2026,Expansion joint replacement,Medium,594319.0,Completed
+MT-BR0164,BR0164,2028,Bearing replacement,Low,840734.0,Completed
+MT-BR0166,BR0166,2028,Scour protection,Medium,173881.0,Planned
+MT-BR0167,BR0167,2027,Crack sealing,Medium,114243.0,Completed
+MT-BR0168,BR0168,2028,Drainage cleaning,Low,485185.0,Completed
+MT-BR0172,BR0172,2027,Crack sealing,Low,372028.0,Planned
+MT-BR0173,BR0173,2026,Crack sealing,Low,1121304.0,Completed
+MT-BR0175,BR0175,2026,Expansion joint replacement,High,1991273.0,Planned
+MT-BR0177,BR0177,2028,Concrete patch repair,Medium,94303.0,Approved
+MT-BR0180,BR0180,2028,Deck resurfacing,Medium,1162346.0,Completed
+MT-BR0182,BR0182,2027,Load rating / special inspection,Low,333481.0,Planned
+MT-BR0183,BR0183,2026,Deck resurfacing,Low,1138133.0,Completed
+MT-BR0184,BR0184,2028,Crack sealing,Low,335259.0,Approved
+MT-BR0185,BR0185,2028,Deck resurfacing,High,270853.0,Approved
+MT-BR0186,BR0186,2026,Concrete patch repair,Low,66853.0,Completed
+MT-BR0187,BR0187,2026,Expansion joint replacement,Medium,674561.0,In design
+MT-BR0188,BR0188,2028,Concrete patch repair,High,527197.0,Planned
+MT-BR0195,BR0195,2027,Scour protection,Medium,105015.0,Completed
+MT-BR0197,BR0197,2028,Expansion joint replacement,Low,1091687.0,In design
+MT-BR0198,BR0198,2028,Expansion joint replacement,Low,384722.0,Completed
+MT-BR0201,BR0201,2026,Load rating / special inspection,Low,596704.0,Planned
+MT-BR0202,BR0202,2026,Load rating / special inspection,Low,395066.0,Planned
+MT-BR0203,BR0203,2028,Concrete patch repair,High,342995.0,In design
+MT-BR0205,BR0205,2026,Expansion joint replacement,Medium,347412.0,Planned
+MT-BR0207,BR0207,2027,Scour protection,Medium,186741.0,In design
+MT-BR0208,BR0208,2026,Scour protection,High,2133066.0,Approved
+MT-BR0212,BR0212,2028,Crack sealing,Medium,325687.0,Planned
+MT-BR0215,BR0215,2026,Expansion joint replacement,Medium,270124.0,Planned
+MT-BR0216,BR0216,2028,Concrete patch repair,High,1467805.0,Approved
+MT-BR0218,BR0218,2026,Concrete patch repair,Low,617015.0,Planned
+MT-BR0219,BR0219,2026,Expansion joint replacement,Medium,68016.0,In design
+MT-BR0222,BR0222,2027,Drainage cleaning,Medium,653951.0,Approved
+MT-BR0223,BR0223,2028,Scour protection,Medium,312668.0,Completed
+MT-BR0224,BR0224,2027,Crack sealing,High,1138387.0,In design
+MT-BR0226,BR0226,2028,Expansion joint replacement,High,675515.0,In design
+MT-BR0227,BR0227,2028,Deck resurfacing,High,237293.0,Approved
+MT-BR0230,BR0230,2028,Scour protection,Medium,742476.0,Approved
+MT-BR0233,BR0233,2026,Load rating / special inspection,Low,669183.0,Planned
+MT-BR0235,BR0235,2026,Scour protection,Medium,371912.0,Approved
+MT-BR0236,BR0236,2028,Crack sealing,High,151314.0,Approved
+MT-BR0240,BR0240,2027,Drainage cleaning,Low,89502.0,Completed
+MT-BR0241,BR0241,2026,Scour protection,Low,1175202.0,Planned
+MT-BR0247,BR0247,2028,Deck resurfacing,Medium,135400.0,In design
+MT-BR0250,BR0250,2026,Crack sealing,Medium,143309.0,Completed
+MT-BR0251,BR0251,2028,Crack sealing,Medium,513220.0,Planned
+MT-BR0252,BR0252,2026,Load rating / special inspection,Medium,1173912.0,Approved
+MT-BR0261,BR0261,2028,Load rating / special inspection,Medium,95153.0,Approved
+MT-BR0262,BR0262,2026,Drainage cleaning,Medium,278930.0,Planned
+MT-BR0264,BR0264,2026,Load rating / special inspection,High,1394561.0,Approved
+MT-BR0265,BR0265,2026,Load rating / special inspection,Low,864861.0,Completed
+MT-BR0266,BR0266,2026,Expansion joint replacement,Medium,272916.0,Approved
+MT-BR0269,BR0269,2028,Load rating / special inspection,High,771532.0,Completed
+MT-BR0270,BR0270,2028,Deck resurfacing,Low,1005125.0,Approved
+MT-BR0272,BR0272,2027,Bearing replacement,Medium,169483.0,In design
+MT-BR0273,BR0273,2027,Drainage cleaning,High,1689825.0,Completed
+MT-BR0274,BR0274,2026,Crack sealing,Urgent,1226891.0,Approved
+MT-BR0277,BR0277,2027,Bearing replacement,High,117904.0,Planned
+MT-BR0280,BR0280,2027,Bearing replacement,Medium,1186445.0,Approved
+MT-BR0282,BR0282,2027,Scour protection,Medium,342281.0,Planned
+MT-BR0283,BR0283,2026,Scour protection,Low,516524.0,In design
+MT-BR0285,BR0285,2027,Drainage cleaning,Low,956596.0,In design
+MT-BR0287,BR0287,2026,Bearing replacement,Medium,159642.0,In design
+MT-BR0290,BR0290,2028,Scour protection,Low,416848.0,Completed
+MT-BR0291,BR0291,2027,Concrete patch repair,Medium,997974.0,Approved
+MT-BR0293,BR0293,2026,Bearing replacement,Medium,522485.0,Completed
+MT-BR0300,BR0300,2028,Concrete patch repair,Medium,1128224.0,Approved
+MT-BR0302,BR0302,2026,Concrete patch repair,Medium,346940.0,Approved
+MT-BR0303,BR0303,2027,Scour protection,High,239752.0,Planned
+MT-BR0304,BR0304,2026,Bearing replacement,Medium,632738.0,In design
+MT-BR0305,BR0305,2026,Bearing replacement,Low,567894.0,In design
+MT-BR0308,BR0308,2027,Scour protection,Medium,161678.0,Planned
+MT-BR0309,BR0309,2027,Concrete patch repair,Low,1003181.0,Planned
+MT-BR0310,BR0310,2027,Bearing replacement,Medium,464308.0,Completed
+MT-BR0313,BR0313,2027,Concrete patch repair,Medium,1154111.0,Approved
+MT-BR0314,BR0314,2027,Bearing replacement,Medium,864838.0,Planned
+MT-BR0315,BR0315,2026,Load rating / special inspection,Medium,1096054.0,Planned
+MT-BR0319,BR0319,2026,Crack sealing,Low,1000175.0,Planned
+MT-BR0321,BR0321,2026,Concrete patch repair,Low,415313.0,Planned
+MT-BR0323,BR0323,2028,Load rating / special inspection,Medium,260732.0,In design
+MT-BR0324,BR0324,2027,Concrete patch repair,Medium,201578.0,Planned
+MT-BR0327,BR0327,2027,Bearing replacement,High,986631.0,In design
+MT-BR0328,BR0328,2026,Expansion joint replacement,Medium,246996.0,Approved
+MT-BR0330,BR0330,2027,Expansion joint replacement,High,2020756.0,Approved
+MT-BR0333,BR0333,2028,Concrete patch repair,Low,1039773.0,Completed
+MT-BR0334,BR0334,2027,Scour protection,High,1881243.0,Completed
+MT-BR0335,BR0335,2027,Deck resurfacing,High,110955.0,In design
+MT-BR0336,BR0336,2028,Crack sealing,Medium,197476.0,Approved
+MT-BR0338,BR0338,2027,Concrete patch repair,Low,1159885.0,In design
+MT-BR0339,BR0339,2027,Expansion joint replacement,Low,579729.0,Completed
+MT-BR0340,BR0340,2028,Bearing replacement,Medium,426351.0,Completed
+MT-BR0341,BR0341,2026,Load rating / special inspection,High,1413951.0,Planned
+MT-BR0342,BR0342,2026,Scour protection,Medium,696665.0,Planned
+MT-BR0343,BR0343,2028,Expansion joint replacement,Low,187426.0,Completed
+MT-BR0345,BR0345,2028,Scour protection,Medium,126779.0,Approved
+MT-BR0347,BR0347,2028,Load rating / special inspection,Medium,882453.0,Completed
+MT-BR0349,BR0349,2026,Drainage cleaning,Low,282235.0,Completed
+MT-BR0351,BR0351,2028,Crack sealing,High,1449722.0,Planned
+MT-BR0352,BR0352,2027,Bearing replacement,Medium,1051827.0,Approved
+MT-BR0353,BR0353,2027,Load rating / special inspection,Medium,803738.0,Completed
+MT-BR0356,BR0356,2027,Load rating / special inspection,Medium,1043923.0,Completed
+MT-BR0358,BR0358,2028,Drainage cleaning,Medium,554170.0,In design
+MT-BR0359,BR0359,2028,Crack sealing,Low,648691.0,Completed
+MT-BR0360,BR0360,2028,Deck resurfacing,Medium,900502.0,Planned
