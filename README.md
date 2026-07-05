@@ -1,5 +1,14 @@
-# Bridge Asset Condition Reporting and Analytics Platform
+# Bridge Asset Analytics
 
-SQL | Power BI | Python
+## Project Overview
 
-An infrastructure data analytics project demonstrating relational database design, SQL querying, data transformation and Power BI dashboard development using bridge asset, inspection and maintenance datasets.
+This project demonstrates an end-to-end bridge asset analytics workflow using MySQL and Power BI.
+
+The objective is to simulate how a transport agency can analyse bridge condition, inspection records, defects and maintenance information to support infrastructure planning and maintenance prioritisation.
+
+The project includes:
+
+- Database design (Star Schema)
+- SQL data analysis
+- Power BI dashboard development
+- Infrastructure asset performance reporting
