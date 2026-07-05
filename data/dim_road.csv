@@ -1,0 +1,37 @@
+﻿road_id,province_id,road_name,road_class,AADT,heavy_vehicle_pct
+SC-R01,SC,SC G90 Connecting Road,Expressway,40500,13.3
+SC-R02,SC,SC S68 Connecting Road,Expressway,72095,25.2
+SC-R03,SC,SC S68 Ring Road,Class I Highway,19764,26.8
+SC-R04,SC,SC S51 Ring Road,Expressway,72709,14.3
+SC-R05,SC,SC S66 Expressway,Class II Highway,16092,18.2
+SC-R06,SC,SC G15 Highway,Class I Highway,44877,11.8
+SC-R07,SC,SC X96 Expressway,Expressway,57514,17.3
+SC-R08,SC,SC X97 Expressway,Expressway,69687,12.3
+SC-R09,SC,SC G61 Expressway,Class I Highway,41445,14.4
+SC-R10,SC,SC X80 Highway,Expressway,36646,11.9
+SC-R11,SC,SC G73 Highway,Class II Highway,17587,23.1
+SC-R12,SC,SC G61 Ring Road,Expressway,62864,17.9
+HB-R01,HB,HB G72 Highway,Class II Highway,12275,25.8
+HB-R02,HB,HB G39 Expressway,Expressway,79980,27.5
+HB-R03,HB,HB S82 Highway,Class I Highway,14599,8.8
+HB-R04,HB,HB G39 Expressway,Expressway,37200,21.4
+HB-R05,HB,HB S99 Highway,Class I Highway,21989,21.8
+HB-R06,HB,HB X12 Ring Road,Expressway,82705,26.1
+HB-R07,HB,HB X39 Ring Road,Class II Highway,5703,15.9
+HB-R08,HB,HB S21 Ring Road,Expressway,42551,17.3
+HB-R09,HB,HB X48 Ring Road,Class II Highway,15240,14.6
+HB-R10,HB,HB S87 Expressway,Expressway,59096,18.6
+HB-R11,HB,HB S61 Connecting Road,Expressway,42220,19.6
+HB-R12,HB,HB G77 Ring Road,Class II Highway,12183,8.2
+SN-R01,SN,SN S21 Connecting Road,Class II Highway,12550,10.4
+SN-R02,SN,SN G92 Ring Road,Class II Highway,6557,12.0
+SN-R03,SN,SN G89 Highway,Expressway,68438,29.0
+SN-R04,SN,SN G39 Connecting Road,Class I Highway,28769,18.7
+SN-R05,SN,SN X15 Ring Road,Class II Highway,15927,17.1
+SN-R06,SN,SN S29 Highway,Class III Highway,17791,24.2
+SN-R07,SN,SN S78 Connecting Road,Expressway,63659,26.5
+SN-R08,SN,SN G28 Highway,Class II Highway,8218,28.1
+SN-R09,SN,SN X87 Connecting Road,Expressway,84734,14.2
+SN-R10,SN,SN S59 Highway,Class II Highway,15082,15.1
+SN-R11,SN,SN S97 Ring Road,Class I Highway,19969,12.3
+SN-R12,SN,SN S48 Ring Road,Expressway,58136,19.3
