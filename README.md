@@ -159,18 +159,7 @@ bridge-asset-analytics
 
 ---
 
-## Future Improvements
 
-Future enhancements may include:
-
-- Common Table Expressions (CTEs)
-- Window Functions
-- Advanced SQL optimisation
-- Time-series bridge condition analysis
-- Predictive maintenance modelling
-- Integration with GIS data
-
----
 
 ## Author
 
